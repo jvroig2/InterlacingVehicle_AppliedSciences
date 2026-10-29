@@ -78,4 +78,4 @@ These files are located in the FiguresTables folder.
 
 ### `.xlsx` files (spreadsheets)
 
-- FiguresTables/Index_Fig6.xlsx: Spreadsheet used to store and calculate the indices reported in the tables and Figure 6, which plots the normalized combined index J against the average update order for the modal-speed and input–output coupling criteria.
+- FiguresTables/Tables_Fig6.xlsx: Spreadsheet used to store and calculate the indices reported in the tables and Figure 6, which plots the normalized combined index J against the average update order for the modal-speed and input–output coupling criteria.
