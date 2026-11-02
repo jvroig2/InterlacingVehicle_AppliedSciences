@@ -20,7 +20,7 @@ Note for review: except for the description of regdiagsep.m provided in the temp
 - ControlYawN6.mlx: Live Script associated with the N = 6 case. Its intended purpose is to prepare or analyze the yaw-rate control configurations and the interlaced controller simulations for this factor.
 - ControlYawN7.mlx: Live Script associated with the N = 7 case. Its intended purpose is to prepare or analyze the yaw-rate control configurations and the interlaced controller simulations for this factor.
 - ControlYawN8.mlx: Live Script associated with the N = 8 case. Its intended purpose is to prepare or analyze the yaw-rate control configurations and the interlaced controller simulations for this factor.
-- Interl_Resid.mlx: Live Script likely related to the analysis of residues or modal input–output contributions for interlacing. Its specific relationship to the criterion based on C_i B_i must be confirmed.
+- Interl_Resid.mlx: MATLAB Live Script that retrieves data from all simulations and generates the comparative plots used in the article.
 
 ### `.mat` files (configurations and data)
 
@@ -73,8 +73,7 @@ These files are located in the FiguresTables folder.
 
 - FiguresTables/Figure2.fig: Figure showing the nominal plant responses for different ranking criteria with N = 4, compared with the complete controller implementations at periods T and 4T.
 - FiguresTables/Figure3.fig: Figure showing the nominal plant responses for different ranking criteria with N = 5, compared with the complete controller implementations at periods T and 5T.
-- FiguresTables/Figure4.fig: Figure showing the nominal plant tracking responses using the input–output coupling criterion for N = 4 to N = 8.
-- FiguresTables/Figure5.fig: Figure showing the control inputs using the input–output coupling criterion for N = 4 to N = 8.
+- FiguresTables/Figure4-5.fig: Figure showing the nominal plant tracking responses and the control inputs using the input–output coupling criterion for N = 4 to N = 8.
 
 ### `.xlsx` files (spreadsheets)
 
